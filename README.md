@@ -1,4 +1,4 @@
-### Seja bem vindo, sou Anderson Farias!
+### Seja bem vindo, sou Anderson!
 
 👋 Olá!
 
