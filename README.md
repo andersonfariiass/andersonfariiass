@@ -12,15 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Seja bem vindo, sou Anderson!
+### Hi, my name is Anderson and I'm a DevOps/Cloud engineer. 🤓👨
 
-👋 Olá!
-
-Sou um entusiasta na área de Tecnologia da Informação, graduado em Redes de Computadores pela Universidade Tiradentes - Unit Sergipe. Minha paixão por inovação e desafios me impulsiona a construir uma carreira sólida em TI, focando em DevOps, Cloud Computing, Kubernetes, Docker, Observabilidade e Infra as Code.
-
-💼 Atualmente, ocupo a posição de Arquiteto Cloud.
-
-🚀 Tenho experiência técnica em Azure Cloud, AWS, Kubernetes, Docker, Linux, Shell Script, Terraform além de outras stacks essenciais, como Prometheus, Grafana, Kiali, Jaeger, Zabbix.
+<div align="center">
+  <a href="https://github.com/andersonfariiass">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## My Achievements and Certifications:
 
@@ -29,12 +27,6 @@ Sou um entusiasta na área de Tecnologia da Informação, graduado em Redes de C
 <a href="https://www.credly.com/badges/ac9093c5-ec70-43ae-bdb1-64cf86a6c25c" target="_blank"> <img width="110" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"> </a>
 <a href="https://www.credly.com/badges/c9860042-16a1-4c1d-8b40-2cfd67423d4c" target="_blank"> <img width="110" alt="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"> </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2B56AA53B635AFB8638955363B8698D225858BF8E3D0B1F6F066952EEC4B4CB" target="_blank"> <img width="110" alt="Oracle Cloud Infrastructure Foundations 2021 Associate" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"> </a>
-
-<div align="center">
-  <a href="https://github.com/andersonfariiass">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ### Contato: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonfariass/)
@@ -56,10 +48,12 @@ Sou um entusiasta na área de Tecnologia da Informação, graduado em Redes de C
   <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
 </div>
 -->
+<!--
 ### Skills:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img align="center" alt="Azure Cloud" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img align="center" alt="Azure Cloud" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=terraform&logoColor=white" /> 
+  -->
