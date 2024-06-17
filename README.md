@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/c9860042-16a1-4c1d-8b40-2cfd67423d4c" target="_blank"> <img width="110" alt="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2B56AA53B635AFB8638955363B8698D225858BF8E3D0B1F6F066952EEC4B4CB" target="_blank"> <img width="110" alt="Oracle Cloud Infrastructure Foundations 2021 Associate" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"> </a>
 
-### Contato: 
+### contact: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonfariass/)
 
 
