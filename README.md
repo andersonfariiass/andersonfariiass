@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, my name is Anderson and I'm a DevOps/Cloud engineer. 🤓👨
+### Hi, my name is Anderson and I'm a DevOps/Cloud engineer.
 
 <div align="center">
   <a href="https://github.com/andersonfariiass">
