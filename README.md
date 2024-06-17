@@ -23,18 +23,6 @@ Here are some ideas to get you started:
 | <a href="https://github.com/andersonfariiass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/andersonfariiass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/andersonfariiass/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonfariiass&repo=github-readme-stats&theme=github_dark" />
-</a>
-<a href="https://github.com/andersonfariiass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonfariiass&repo=andersonfariiass.github.io&theme=github_dark" />
-</a>
-
-<br />
-<br />
-
 ## My Achievements and Certifications:
 
 <a href="https://www.credly.com/badges/6763a21a-d904-41fe-9206-ea24b169578f" target="_blank"> <img width="110" alt="Terraform Associate" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"> </a>
