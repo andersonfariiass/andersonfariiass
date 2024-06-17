@@ -20,17 +20,8 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true" />
-</picture>
+| <a href="https://github.com/andersonfariiass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/andersonfariiass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## My Achievements and Certifications:
 
