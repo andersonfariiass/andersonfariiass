@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&langs_count=7&theme=dracula"/>
 </div>-->
 
-| <a href="https://github.com/andersonfariiass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/andersonfariiass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/andersonfariiass/andersonfariiass"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/andersonfariiass/andersonfariiass"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## My Achievements and Certifications:
