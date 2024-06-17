@@ -20,6 +20,18 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true" />
+</picture>
+
 ## My Achievements and Certifications:
 
 <a href="https://www.credly.com/badges/6763a21a-d904-41fe-9206-ea24b169578f" target="_blank"> <img width="110" alt="Terraform Associate" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"> </a>
