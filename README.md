@@ -28,19 +28,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/andersonfariiass/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonfariiass&repo=github-readme-stats&theme=github_dark" />
 </a>
-<a href="https://github.com/andersonfariiass/andersonfariiass.github.io">
+<a href="https://github.com/andersonfariiass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonfariiass&repo=andersonfariiass.github.io&theme=github_dark" />
 </a>
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anderson Farias | Twitter" width="21px" src="https://raw.githubusercontent.com/andersonfariiass/andersonfariiass/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/andersonfariiass">
-  <img align="right" alt="Anderson Farias | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/andersonfariiass/andersonfariiass/master/assets/codesandbox.svg" />
-</a>
 
 ## My Achievements and Certifications:
 
