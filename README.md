@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/ad3e5862-463c-4a06-bf72-b7e7a5982327" target="_blank"> <img width="110" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"> </a>
 <a href="https://www.credly.com/badges/ac9093c5-ec70-43ae-bdb1-64cf86a6c25c" target="_blank"> <img width="110" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"> </a>
 <a href="https://www.credly.com/badges/c9860042-16a1-4c1d-8b40-2cfd67423d4c" target="_blank"> <img width="110" alt="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a>
+<a href="https://www.credly.com/badges/9b751147-2117-48ec-adac-f4cf1e52bbd8" target="_blank"> <img width="110" alt="GitOps Fundamentals" src="https://images.credly.com/size/340x340/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png"> </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2B56AA53B635AFB8638955363B8698D225858BF8E3D0B1F6F066952EEC4B4CB" target="_blank"> <img width="110" alt="Oracle Cloud Infrastructure Foundations 2021 Associate" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"> </a>
 
 ### Contact: 
