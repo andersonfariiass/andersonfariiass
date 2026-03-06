@@ -76,17 +76,17 @@ Currently focused on improving skills in:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andersonfariiass&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonfariiass&theme=github-dark-blue&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfariiass&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andersonfariiass&theme=github-compact&hide_border=true&area=true" />
-</div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andersonfariiass&theme=github-compact&hide_border=true&area=true" />
+
+</div>
 ---
 
 # 🏆 Certifications
